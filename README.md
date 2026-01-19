@@ -1,6 +1,6 @@
 # heat-hazard-predictor
 AI model to predict heat safety and suggest precautions based on day, time, and temperature.
-# Heat Hazard Predictor ☀️
+# Heat Hazard Predictor 
 
 This is a beginner-friendly Machine Learning project that predicts if it's safe to go outside during summer, based on:
 
@@ -8,13 +8,13 @@ This is a beginner-friendly Machine Learning project that predicts if it's safe 
 - Time of the Day
 - Temperature (°C)
 
-## 🚀 Technologies Used
+## Technologies Used
 - Python
 - Scikit-learn
 - Pandas
 - Google Colab
 
-## 📊 Sample Output
+##  Sample Output
 
 Input:
 - Day: Tuesday
@@ -22,12 +22,12 @@ Input:
 - Temperature: 41°C
 
 Output:
-- ❌ Unsafe to go out
-- ✅ Precautions:
+-  Unsafe to go out
+- Precautions:
   - Carry water
   - Avoid direct sun
   - Wear a cap/sunglasses
 
-## 📁 Files
+##  Files
 - `heat_hazard_predictor.ipynb`: Main notebook
 - `README.md`: Project info
